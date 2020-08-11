@@ -6,7 +6,7 @@ Automated cadCAD system models diagram through GraphViz
 The main is through pip:
 
 ```sh
-pip install cadCad_diagram
+pip install cadCAD_diagram
 ```
 
 ## Usage
