@@ -13,7 +13,7 @@ Alternatively, you can install a branch directly from the repository through:
 
 ```sh
 pip install git+https://github.com/danlessa/cadCAD_diagram@master
-``
+```
 
 ## Usage
 
