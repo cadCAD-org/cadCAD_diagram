@@ -11,5 +11,6 @@ setup(name='cadCAD_diagram',
       url='https://github.com/danlessa/cadCAD_diagram',
       author='Danilo Lessa Bernardineli',
       author_email='danilo@block.science, danilo.bernardineli@usp.br',
-      packages=find_packages()
+      packages=find_packages(),
+      install_requires=['graphviz', 'cadCAD']
 )
