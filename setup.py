@@ -10,7 +10,7 @@ setup(name='cadCAD_diagram',
       long_description=long_description,
       url='https://github.com/danlessa/cadCAD_diagram',
       author='Danilo Lessa Bernardineli',
-      author_email='danilo@block.science, danilo.bernardineli@usp.br',
+      author_email='danilo@block.science, danilo.lessa@gmail.com',
       packages=find_packages(),
       install_requires=['graphviz', 'cadCAD']
 )

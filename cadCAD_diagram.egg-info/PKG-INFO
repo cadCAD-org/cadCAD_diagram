@@ -4,7 +4,7 @@ Version: 0.0.1.0
 Summary: Diagram tool for cadCAD
 Home-page: https://github.com/danlessa/cadCAD_diagram
 Author: Danilo Lessa Bernardineli
-Author-email: danilo@block.science, danilo.bernardineli@usp.br
+Author-email: danilo@block.science, danilo.lessa@gmail.com
 License: UNKNOWN
 Description: 
         Automated cadCAD system models diagram through GraphViz
