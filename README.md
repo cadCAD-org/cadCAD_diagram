@@ -38,3 +38,10 @@ While the second one would be:
 >>> dia.format = 'png'
 >>> dia.render()
 ```
+
+If you use the ``append_configs`` method, you could plot the diagram of the first config by:
+```python
+from cadCAD_diagram import diagram_from_config
+from cadCAD import configs
+diagram_from_config(configs[0])
+``` 
