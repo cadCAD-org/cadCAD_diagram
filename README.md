@@ -1,6 +1,20 @@
 # cadCAD_diagram
 Automated cadCAD system models diagram through GraphViz
 
+## Installation
+
+The recommended way is through pip:
+
+```sh
+pip install cadCAD_diagram
+```
+
+Alternatively, you can install a branch directly from the repository through:
+
+```sh
+pip install git+https://github.com/danlessa/cadCAD_diagram@master
+```
+
 ## Usage
 
 There are two way to generate a diagram. The first one involves providing
