@@ -1,2 +1,2 @@
-cadCAD
+cadCAD>=0.4.28
 graphviz
